@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "",
-  "types": "index.d.ts",
+  "types": "./src/index.d.ts",
   "scripts": {},
   "keywords": [],
   "author": "",
