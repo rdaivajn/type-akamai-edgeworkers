@@ -1,0 +1,12 @@
+{
+    "name": "type-akamai-edgeworkers",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "types": "index.d.ts",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "typeScriptVersion": "4.3"
+  }
